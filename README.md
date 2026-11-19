@@ -1,4 +1,6 @@
+
 # 🍕 Pizza Sales Analysis Dashboard – Excel
+
 ## 📌 Project Overview
 This project focuses on analyzing pizza sales data using Microsoft Excel. The goal was to explore sales performance, understand customer ordering patterns, and identify the best-selling and least-selling pizza products through an interactive dashboard.
 
@@ -24,7 +26,6 @@ The dataset contains pizza order information, including:
 
 ## 🛠️ Tools & Techniques
 **Microsoft Excel**
-
 - Data preparation and calculated columns.
 - Excel formulas (Sales calculation and WEEKDAY/TEXT functions).
 - PivotTables for data summarization and analysis.
@@ -32,15 +33,12 @@ The dataset contains pizza order information, including:
 - Interactive dashboard with slicers and filters.
 
 ## 📈 Key Performance Indicators (KPIs)
-The dashboard presents four main indicators:
 - Total Sales
 - Total Customers
 - Total Orders
 - Total Quantity Sold
 
 ## 📉 Dashboard Analysis
-The dashboard includes the following visualizations:
-
 1. **Sales by Pizza Category:** Comparison of sales across different pizza categories.
 2. **Sales by Pizza Size:** Analysis of sales distribution by pizza size.
 3. **Monthly Orders:** Identification of monthly ordering trends.
@@ -55,7 +53,9 @@ The dashboard includes the following visualizations:
 - The Classic Deluxe Pizza is the best-selling product.
 
 ## 📷 Dashboard Preview
-*Dashboard screenshot will be added here.*
+<img width="1489" height="568" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/5306cf96-5338-4f07-88b1-529f6e958172" />
+
+
 
 ## 📚 Project Learning Outcomes
-Through this project, I gained practical experience in preparing data, using Excel formulas, creating PivotTables, analyzing sales trends, and designing interactive dashboards to communicate business insights.
+Through this project, I gained practical experience in data preparation, Excel formulas, PivotTables, sales analysis, and interactive dashboard design.
